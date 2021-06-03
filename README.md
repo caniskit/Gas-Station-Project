@@ -1,5 +1,6 @@
 # Gas-Station-Project
-Kotlin Mobile app for android devices and shows turkey gas prices provided by some oil companies
+Kotlin Mobile app for android devices and shows turkey gas prices provided by some oil companies.
+This is team project for Software Lecture
 # Find Oil Web Site 
 Home Page
 

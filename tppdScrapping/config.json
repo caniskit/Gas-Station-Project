@@ -1,0 +1,8 @@
+{
+  "sqlserver":{
+  "server":"server",
+  "user": "user",
+  "passwd": "pass",
+  "db": "Your_DB"
+}
+}

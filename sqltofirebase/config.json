@@ -1,0 +1,11 @@
+{
+  "sqlserver":{
+  "server":"DSK6",
+  "user": "sa",
+  "passwd": "1234",
+  "db": "GasStation"
+},
+  "googleapi": {
+    "cred": "C:\\Users\\1800001312\\PycharmProjects\\sqltofirebase_total\\gasstationfinder-a2ef4-firebase-adminsdk-sco5g-0ee972de98.json"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1092114873199",
+    "project_id": "gasstationfinder-a2ef4",
+    "storage_bucket": "gasstationfinder-a2ef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092114873199:android:a2fef9c3af71c07443c69a",
+        "android_client_info": {
+          "package_name": "com.example.kotlin_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092114873199-puha3gimik9e3tpuh9vvks82umhsriki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBd1c5LhfL2mcXSK3VmJYTNugvlFJlQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092114873199-puha3gimik9e3tpuh9vvks82umhsriki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092114873199:android:ee71a3767be4ecc243c69a",
+        "android_client_info": {
+          "package_name": "com.example.petrogps2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092114873199-puha3gimik9e3tpuh9vvks82umhsriki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBd1c5LhfL2mcXSK3VmJYTNugvlFJlQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092114873199-puha3gimik9e3tpuh9vvks82umhsriki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
